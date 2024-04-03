@@ -1,0 +1,256 @@
+{
+  "employees": [
+    {
+      "id": "EMP1711990741154",
+      "name": "Roy Ashcenazi",
+      "position": "Team leader",
+      "image": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+      "color": "red-lighten-4",
+      "monthly_reports": [
+        {
+          "month": "January",
+          "daily_reports": [
+            {
+              "day": "2024-01-01",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-01-02",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-01-03",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        },
+        {
+          "month": "February",
+          "daily_reports": [
+            {
+              "day": "2024-02-29",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-02-30",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-02-31",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        },
+        {
+          "month": "March",
+          "daily_reports": [
+            {
+              "day": "2024-03-29",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-03-30",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-03-31",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        },
+        {
+          "month": "April",
+          "daily_reports": [
+            {
+              "day": "2024-04-01",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-02",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-03",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EMP1711990374991",
+      "name": "Karina Martinez",
+      "position": "Software developer",
+      "image": "karina.jpg",
+      "color": "yellow-lighten-4",
+      "monthly_reports": [
+        {
+          "month": "March",
+          "daily_reports": [
+            {
+              "day": "2024-03-29",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-03-30",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-03-31",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        },
+        {
+          "month": "April",
+          "daily_reports": [
+            {
+              "day": "2024-04-01",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-02",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-03",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EMP1911924741112",
+      "name": "Joseph Smith",
+      "position": "VP R&D",
+      "image": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+      "color": "lime-lighten-4",
+      "monthly_reports": [
+        {
+          "month": "April",
+          "daily_reports": [
+            {
+              "day": "2024-04-01",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-02",
+              "total_worked_hours": 7.5,
+              "start_time": "09:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-03",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EMP1711990807424",
+      "name": "Mia Diamant",
+      "position": "Human Resources",
+      "image": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+      "color": "blue-lighten-4",
+      "monthly_reports": [
+        {
+          "month": "April",
+          "daily_reports": [
+            {
+              "day": "2024-04-01",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-02",
+              "total_worked_hours": 8.5,
+              "start_time": "08:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-03",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EMP1711996254206",
+      "name": "Sara Caicedo",
+      "position": "Software developer",
+      "image": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+      "color": "deep-purple-lighten-4",
+      "monthly_reports": [
+        {
+          "month": "April",
+          "daily_reports": [
+            {
+              "day": "2024-04-01",
+              "total_worked_hours": 8,
+              "start_time": "09:00",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-02",
+              "total_worked_hours": 8.5,
+              "start_time": "08:30",
+              "end_time": "17:00"
+            },
+            {
+              "day": "2024-04-03",
+              "total_worked_hours": 8.5,
+              "start_time": "09:30",
+              "end_time": "18:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
