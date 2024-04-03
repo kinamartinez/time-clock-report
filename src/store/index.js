@@ -45,8 +45,6 @@ export default createStore({
                 color: employeeById.color,
                 id: employeeById.id,
             };
-
-            console.log(monthlyReport);
             commit('setMonthlyReportObj', monthlyReport);
         }
     },

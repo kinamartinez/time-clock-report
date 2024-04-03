@@ -24,7 +24,7 @@
         >
           <template v-slot:activator="{ props }">
             <v-btn
-              class="mb-2"
+              class="mb-2 addHours"
               color="primary"
               dark
               v-bind="props"
@@ -38,13 +38,14 @@
         <v-menu>
           <template v-slot:activator="{ props }">
             <v-btn
+              class="generateReport"
               color="primary"
               v-bind="props"
             >
               Generate report
             </v-btn>
           </template>
-          <v-list>
+          <v-list   class="monthDropdown">
             <v-list-item
               v-for="(item, index) in entity.monthly_reports"
               :key="index"
@@ -137,8 +138,3 @@ const getReport = (month) => {
 }
 
 </script>
-
-
-<style scoped>
-
-</style>
